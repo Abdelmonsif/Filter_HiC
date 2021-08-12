@@ -1,4 +1,4 @@
-**HiC filteration: 
+HiC filteration: 
 Script for filteration of mapped SNPs and regulatory regions mapped through integration of HiC data and GWAS
 
 
