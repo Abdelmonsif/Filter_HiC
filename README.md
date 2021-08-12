@@ -11,4 +11,9 @@ Osman N, Shawky M, Brylinski M (2021) Exploring the effects of genetic variation
 This README file is written by Shawky Abd-El-Monsif.
 
 
+Usage:
+
+python Filter_HiC.py --inputFile final_merged_all_intra_new --outputFile test --res 5000
+
+
 
