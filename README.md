@@ -1,5 +1,5 @@
-**HiC filteration: 
-**Script for filteration of mapped SNPs and regulatory regions mapped through integration of HiC data and GWAS
+HiC filteration: 
+Script for filteration of mapped SNPs and regulatory regions mapped through integration of HiC data and GWAS
 
 
 if you find this script useful, please cite our paper :)
