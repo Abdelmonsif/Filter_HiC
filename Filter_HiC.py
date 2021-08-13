@@ -38,7 +38,7 @@ def filter_HiC(inputFile, outputFile, res):
 if __name__ == "__main__":
     args = getArgs()
     start = time.time()
-    filename = nt_comp(args.inputFile, args.outputFile, args.res)
+    filename = filter_HiC(args.inputFile, args.outputFile, args.res)
     end = time.time()
     print ('time elapsed:' + str(end - start))   
    
